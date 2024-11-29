@@ -1,1 +1,2 @@
-import torch #第一次提交
+import torch
+print(torch.__version__)
